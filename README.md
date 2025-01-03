@@ -119,7 +119,6 @@ Contributions are welcome! Here's how you can help:
 
 * Based on Marco Dorigo's Ant Colony Optimization algorithm
 * Inspired by nature's problem-solving capabilities
-* Thanks to the open-source community
 
 ## 📞 Contact
 
